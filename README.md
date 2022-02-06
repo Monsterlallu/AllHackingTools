@@ -77,7 +77,7 @@ apt full-upgrade
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+git clone https://github.com/Monsterlallu/AllHackingTools.git
 
 #cd to directory allhackingtools
 cd AllHackingTools
